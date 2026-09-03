@@ -5,8 +5,8 @@ description: Validate SkillHub GitHub acquisition update behavior with a small p
 
 # Update Demo
 
-Use this skill to verify the first GitHub import creates version 0.1.0.
+Use this skill to verify a GitHub content update creates version 0.1.1.
 
 ## Procedure
 
-Record the initial import state and then update this file to validate 0.1.1.
+Record the initial import state, update this file, and confirm SkillHub reuses the same skill with a new version.
